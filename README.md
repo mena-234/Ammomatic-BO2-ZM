@@ -12,6 +12,7 @@ Multiplicity of boxes: You can place several ammo boxes on the same map. To add 
 Improved ammo box: Now, the ammo box has movement and looks like a real game element.
 
 Locations:
+
 Mob of the Dead (zm_prison):
 *Roft
 *Jugg
@@ -34,6 +35,7 @@ Transit (zm_transit) and survival maps (Town, Farm, Bus Depot):
 *Town
 *Farm
 *Bus Depot
+
 Note: These locations are also valid for the survival maps (Town, Farm, Bus Depot). If you want to keep the boxes in these maps, do not delete them.
 
 Origins (zm_tomb):
